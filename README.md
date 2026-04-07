@@ -1,5 +1,9 @@
 # 🚢 Titanic Survival Analysis 
 
+## 📊 Power BI Dashboard
+
+![Dashboard](screenshots/dashboard1.png)
+
 ## 📌 Project Overview
 
 This project performs an in-depth analysis of the Titanic dataset to uncover the key factors that influenced passenger survival. Using Python-based data analysis techniques, we explore patterns related to gender, passenger class, age, and fare.
