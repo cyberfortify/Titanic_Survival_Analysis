@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-age_distribution.png
+This project performs an in-depth analysis of the Titanic dataset to uncover the key factors that influenced passenger survival. Using Python-based data analysis techniques, we explore patterns related to gender, passenger class, age, and fare.
 
  
 
@@ -68,13 +68,13 @@ The following steps were performed:
 
 ### 🔹 Survival by Passenger Class
 
-![Class Survival](images/survival_by_pclass.png)
+![Class Survival](charts/survival_by_pclass.png)
 
  
 
 ### 🔹 Age Distribution
 
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](charts/age_distribution.png)
 
  
 
